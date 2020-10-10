@@ -4,8 +4,8 @@
 
 ## 聚合支付
 
-![Sponsor](Sponsor/Sponsor.jpg)
-![Sponsor](https://raw.fastgit.org/RC1844/Sponsor/master/Sponsor/Sponsor.jpg)
+![Sponsor](Sponsor/Sponsor.png)
+![Sponsor](https://raw.fastgit.org/RC1844/Sponsor/master/Sponsor/Sponsor.png)
 
 ## Alipay
 
