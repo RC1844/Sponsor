@@ -4,13 +4,12 @@
 
 ## 聚合支付
 
-![Sponsor](Sponsor/Sponsor.png)
-![Sponsor](https://raw.fastgit.org/RC1844/Sponsor/master/Sponsor/Sponsor.png)
+![Sponsor](https://cdn.jsdelivr.net/gh/RC1844/Sponsor@master/Sponsor/Sponsor.png)
 
 ## Alipay
 
-![支付宝](Sponsor/Alipay.jpg)
+![支付宝](https://cdn.jsdelivr.net/gh/RC1844/Sponsor@master/Sponsor/Alipay.jpg)
 
 ## WeiXin
 
-![微信](Sponsor/WeiXin.png)
+![微信](https://cdn.jsdelivr.net/gh/RC1844/Sponsor@master/Sponsor/WeiXin.png)
